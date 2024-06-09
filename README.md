@@ -1,6 +1,6 @@
 # BIEDRONKA RECEIPTS PROCESSOR
 
-### Short description: After cloning the project, <span style="color:pink"> remove the following block of code.
+### Short description: After cloning the project and run flow first time, <span style="color:pink"> remove the following block of code.
 
 ## <span style="color:lightgreen">ToDo
 
